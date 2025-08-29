@@ -1,0 +1,9 @@
+{
+  "sites": [
+    {
+      "name": "苹果CMS示例",
+      "api": "https://api.lzyapi.com/api.php/provide/vod/from/douban/",
+      "type": "json"
+    }
+  ]
+}
