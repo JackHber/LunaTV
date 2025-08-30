@@ -2,7 +2,7 @@
   "sites": [
     {
       "name": "苹果CMS示例",
-      "api": "https://api.1080zyku.com/inc/apijson_vod.php",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
       "type": "json"
     }
   ]
