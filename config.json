@@ -1,7 +1,7 @@
 {
   "sites": [
     {
-      "name": "苹果CMS示例",
+      "name": "虎牙资源",
       "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
       "type": "json"
     }
