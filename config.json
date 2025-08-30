@@ -2,7 +2,7 @@
   "sites": [
     {
       "name": "苹果CMS示例",
-      "api": "https://api.lzyapi.com/api.php/provide/vod/from/douban/",
+      "api": "https://api.1080zyku.com/inc/apijson_vod.php",
       "type": "json"
     }
   ]
